@@ -8,8 +8,8 @@ Demo Theme with Version for RAD Class
 * The screenshot image 
 
 ## Version II : 
-* Containes More Template Files [page.php , single.php]
-* Suport for Navigation Menu and Side Bar(functions.php, sigebar.php)
+* Contains More Template Files [page.php , single.php]
+* Support for Navigation Menu and Side Bar(functions.php, sidebar.php)
 * Support for Css [Custom , Bootstrap]
 
 
