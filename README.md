@@ -10,6 +10,7 @@ Demo Theme with Version for RAD Class
 ## Version II : 
 * Contains More Template Files [page.php , single.php]
 * Support for Navigation Menu and Side Bar(functions.php, sidebar.php)
+* Support for 404 pages
 * Support for Css [Custom , Bootstrap]
 
 
