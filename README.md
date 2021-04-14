@@ -3,7 +3,7 @@ Demo Theme with Version for RAD Class
 
 
 ## Version I : 
-* Containes the Basic Files [style.css , index ,php]
+* Contains the Basic Files [style.css , index ,php]
 * Two page templates [header.php, footer.php] 
 * The screenshot image 
 
