@@ -26,6 +26,10 @@ function my_custom_theme_sidebar() {
   register_sidebar( array(
       'name' => __( 'Primary Sidebar', 'my-custom-theme' ),
       'id'   => 'sidebar-1',
+       'before_widget' => '<div>',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h2 class="rounded">',
+      'after_title'   => '</h2>',
   ) );
 }
 add_action( 'widgets_init', 'my_custom_theme_sidebar' );
